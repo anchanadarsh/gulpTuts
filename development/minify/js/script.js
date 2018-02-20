@@ -1,5 +1,3 @@
-// All custom codes with comment
-
 $(document).ready(function () {
     //banner effect
     $("#banner .banner-inner h1 span").addClass("animated");
